@@ -5,10 +5,12 @@
 В файле vimrc нужно добавить (пусть /usr/share/vim/vimrc или /home/user/.vimrc)
 
 let g:termdebug_popup = 0
+
 let g:termdebug_wide = 163
 
 Я куда-то в середину воткнул эти строчки.
 Далее там же прописываем в виме команду
+
 :packadd termdebug 
 
 Хз как у вас. Но у меня(xubuntu) как-будто ничего не происходило.
