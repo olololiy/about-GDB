@@ -20,7 +20,7 @@ let g:termdebug_wide = 163
 
 :Termdebug
 
-Далее компилируюм как-то вот так
+Далее компилируем как-то вот так
 
 gcc -g main.c -o main
 
